@@ -2,7 +2,7 @@
 
 個人・個人事業主・法人対応。最大50名まで対応した美容サロン専用シフト自動生成クラウドアプリケーションです。
 
-- **本番公開URL（Netlify）**: https://salon-shift-v2.netlify.app/
+- **公開ステータス**: 非公開（Netlifyサイト削除・非公開化済み）
 - **GitHubリポジトリ**: https://github.com/guardian-apg/salon-shift-v2.git
 
 ---
